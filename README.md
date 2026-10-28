@@ -29,15 +29,16 @@ const johan = {
     devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
     databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
     misc: ["Socket.IO", "REST APIs", "WebSockets", "Apache Kafka", "Apache Benchmark"],
-    generativeAI: ["GPT"],
+    generativeAI: ["Claude", "GPT"],
+    aiTools: ["Claude Code", "Hermes Agent", "9Router"],
   },
   architecture: {
     frontEnd: ["SPA", "SSR"],
     backEnd: ["microservices", "serverless"],
     databases: ["Relational", "NoSQL", "In-memory"],
   },
-  currentFocus: "Keen Learning Game Engines or 3d things, and Typescript Magic's",
-  funFact: "I can debug faster when im playing games!",
+  currentFocus: "Exploring AI agents and automating the software development lifecycle, so I can spend more time playing games",
+  funFact: "I once spent 3 hours automating a task that takes 5 minutes. Worth it.",
 };
 ```
 <!--
